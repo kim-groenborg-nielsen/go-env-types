@@ -1,3 +1,3 @@
-module github.com/kim-groenborg-nielsen/go-env-types
+module github.com/kim-groenborg-nielsen/goenv
 
 go 1.22.1

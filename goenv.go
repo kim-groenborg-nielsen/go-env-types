@@ -1,4 +1,4 @@
-package go_env_types
+package goenv
 
 import (
 	"os"
